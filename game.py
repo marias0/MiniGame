@@ -2,7 +2,7 @@ import pygame
 
 
 # Set up the drawing window
-SCREEN_TITLE = "Crossy RPG"
+SCREEN_TITLE = "Treasure Hunt"
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 800
 
